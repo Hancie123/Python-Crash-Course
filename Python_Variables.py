@@ -67,4 +67,15 @@ def myfunc():
 myfunc()
 
 
+#The Global Keyword
+
+def globalexample():
+    global x
+    x="Fantastic"
+
+globalexample()
+
+print("The python is "+x)
+
+
 
