@@ -52,3 +52,10 @@ print(type(j))
 print(type(k))
 print(type(l))
 print(type(m))
+
+
+class Student():
+    pass
+
+sid=Student()
+print(type(sid))
