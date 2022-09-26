@@ -38,12 +38,12 @@ from array import array
 # print(txt.isnumeric())
 # print(txt.find("are"))
 
-num=array("i",[1,2,3,4,5])
-print(num)
-tup=num.buffer_info()
-print(tup)
-x=min(num)
-print(x)
+# num=array("i",[1,2,3,4,5])
+# print(num)
+# tup=num.buffer_info()
+# print(tup)
+# x=min(num)
+# print(x)
 
 
 
